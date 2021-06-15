@@ -21,8 +21,10 @@ Check -> This will check if your Nitro Codes are Valid or Invalid, to use it, se
 AutoClaim -> This will automatically claim any Valid Nitro Code, enter your token to use it
 Webhooks -> This will send the codes to a webhook, and if there's any Valid code, will tag everyone
 Proxys -> Not avaible, they will be avaible in next version
+Results -> This is the output of any option
 ```
   
 ## Notes 🌌
 * This is the first version, if you see a bug, please open an issue. ☕ 
-* Educational purposes only
+* Educational purposes only 🚫
+ 
